@@ -8,7 +8,7 @@
 <h1 align="center">Hi 👋, I'm Nidhi Kunwar</h1>
 <h4 align="center">I am a final-year Computer Science and Engineering student, graduating in 2024, with a strong focus on software development. During my internship as a Security Engineer at Flipkart India Private Limited, I gained hands-on experience using FastAPI, Python, Golang, Docker, MongoDB, Postman, GitHub Actions, and Webhooks. My work involved developing a SAST tool, creating Python scripts for web scraping, and deploying a scalable open-source WAF, all with a focus on secure coding practices. In addition to my internship experience, I am a 5 ⭐ coder on HackerRank and have solved over 250 Data Structures and Algorithms problems on LeetCode. My programming expertise extends to Java, and I have practical experience in web and API development using ReactJS, HTML, CSS, JavaScript, REST API and FastAPI.</h3>
 
-<img align="right" alt="Coding" width="250" src="https://media.licdn.com/dms/image/v2/D5622AQGmAqaVx9ZElA/feedshare-shrink_1280/feedshare-shrink_1280/0/1720197913143?e=1727308800&v=beta&t=4PeLuuKsKx66ju0zzOxw9PffRRzSmvTtAGrtDr4Nfhc">
+<img align="right" alt="Coding" width="250" src="https://media.licdn.com/dms/image/v2/D5622AQGmAqaVx9ZElA/feedshare-shrink_1280/feedshare-shrink_1280/0/1720197913143?e=1731542400&v=beta&t=8o-UTKnEq4rrEywKHQhvLB9osRh764Tl8hY1-VMgZAk">
 
 
 - 📫 How to reach me **nidhi.kunwar11@gmail.com**
